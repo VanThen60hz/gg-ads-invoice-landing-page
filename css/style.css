@@ -1003,3 +1003,47 @@ a:focus {
     color: inherit;
 }
 /*# sourceMappingURL=style.css.map */
+
+.zalo-link {
+    background: #0068ff;
+    height: 48px;
+    align-items: center;
+    border: none;
+    border-radius: 8px;
+    color: #fff;
+    display: inline-flex;
+    font-weight: 500;
+    justify-content: center;
+    text-decoration: none;
+    transition: all 0.3s ease;
+}
+
+.zalo-img {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+}
+
+.zalo-info__col {
+    display: flex;
+    column-gap: 30px;
+}
+
+.zalo-qr__code {
+    height: 200px;
+    width: 200px;
+}
+
+.zalo-qr__desc {
+    width: 200px;
+    font-size: 12px;
+}
+
+.zalo-me__desc {
+    width: 100%;
+    font-size: 12px;
+}
+
+.zalo-link:hover {
+    color: #000000 !important;
+}
