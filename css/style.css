@@ -1047,3 +1047,7 @@ a:focus {
 .zalo-link:hover {
     color: #000000 !important;
 }
+
+.client_id .img-box img {
+    border-radius: 99px;
+}
