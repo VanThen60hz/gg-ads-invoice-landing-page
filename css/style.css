@@ -1051,3 +1051,7 @@ a:focus {
 .client_id .img-box img {
     border-radius: 99px;
 }
+
+#hover-fix:hover {
+    color: #fff;
+}
